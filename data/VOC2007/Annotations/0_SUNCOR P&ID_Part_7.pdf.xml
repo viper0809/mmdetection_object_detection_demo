@@ -1,0 +1,134 @@
+<annotation>
+	<folder>ImageSets</folder>
+	<filename>0_SUNCOR P&amp;ID_Part_7.pdf.jpg</filename>
+	<path>C:\Users\Abhinav.Gupta\Desktop\Github\data\VOCdevkit\VOC2007\ImageSets\0_SUNCOR P&amp;ID_Part_7.pdf.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5100</width>
+		<height>3300</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gate Valve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1897</xmin>
+			<ymin>2046</ymin>
+			<xmax>1953</xmax>
+			<ymax>2075</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gate Valve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>832</xmin>
+			<ymin>1619</ymin>
+			<xmax>888</xmax>
+			<ymax>1648</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gate Valve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3178</xmin>
+			<ymin>2354</ymin>
+			<xmax>3234</xmax>
+			<ymax>2383</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gate Valve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2975</xmin>
+			<ymin>620</ymin>
+			<xmax>3031</xmax>
+			<ymax>649</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gate Valve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2094</xmin>
+			<ymin>1418</ymin>
+			<xmax>2150</xmax>
+			<ymax>1447</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gate Valve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2097</xmin>
+			<ymin>1552</ymin>
+			<xmax>2153</xmax>
+			<ymax>1581</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gate Valve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2080</xmin>
+			<ymin>894</ymin>
+			<xmax>2136</xmax>
+			<ymax>923</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gate Valve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1896</xmin>
+			<ymin>1008</ymin>
+			<xmax>1952</xmax>
+			<ymax>1037</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gate Valve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1894</xmin>
+			<ymin>1172</ymin>
+			<xmax>1950</xmax>
+			<ymax>1201</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gate Valve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1892</xmin>
+			<ymin>1338</ymin>
+			<xmax>1948</xmax>
+			<ymax>1367</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,194 @@
+<annotation>
+	<folder>ImageSets</folder>
+	<filename>0_SUNCOR P&amp;ID_Part_8.pdf.jpg</filename>
+	<path>C:\Users\Abhinav.Gupta\Desktop\Github\data\VOCdevkit\VOC2007\ImageSets\0_SUNCOR P&amp;ID_Part_8.pdf.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5100</width>
+		<height>3300</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gate Valve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>810</xmin>
+			<ymin>1283</ymin>
+			<xmax>863</xmax>
+			<ymax>1322</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gate Valve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1228</xmin>
+			<ymin>2079</ymin>
+			<xmax>1281</xmax>
+			<ymax>2118</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gate Valve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1134</xmin>
+			<ymin>2083</ymin>
+			<xmax>1187</xmax>
+			<ymax>2122</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gate Valve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1135</xmin>
+			<ymin>2230</ymin>
+			<xmax>1188</xmax>
+			<ymax>2269</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gate Valve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1667</xmin>
+			<ymin>2223</ymin>
+			<xmax>1720</xmax>
+			<ymax>2262</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gate Valve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1776</xmin>
+			<ymin>2217</ymin>
+			<xmax>1829</xmax>
+			<ymax>2256</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gate Valve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>687</xmin>
+			<ymin>2993</ymin>
+			<xmax>740</xmax>
+			<ymax>3032</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gate Valve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1470</xmin>
+			<ymin>2997</ymin>
+			<xmax>1523</xmax>
+			<ymax>3036</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gate Valve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1900</xmin>
+			<ymin>2996</ymin>
+			<xmax>1953</xmax>
+			<ymax>3034</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gate Valve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2146</xmin>
+			<ymin>2997</ymin>
+			<xmax>2199</xmax>
+			<ymax>3035</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gate Valve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2310</xmin>
+			<ymin>2715</ymin>
+			<xmax>2363</xmax>
+			<ymax>2753</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gate Valve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2771</xmin>
+			<ymin>2860</ymin>
+			<xmax>2824</xmax>
+			<ymax>2898</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gate Valve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2862</xmin>
+			<ymin>2862</ymin>
+			<xmax>2915</xmax>
+			<ymax>2900</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gate Valve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3214</xmin>
+			<ymin>2862</ymin>
+			<xmax>3267</xmax>
+			<ymax>2900</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gate Valve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3306</xmin>
+			<ymin>2860</ymin>
+			<xmax>3359</xmax>
+			<ymax>2898</ymax>
+		</bndbox>
+	</object>
+</annotation>
